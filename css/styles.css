@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    margin: 10px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+}
+
+h4 {
+    color: rgb(5, 0, 0);
+}
+
+
+.Buscador{
+    background-color: goldenrod;
+}
+
+.Opciones{
+    background-color: rgb(12, 89, 204);
+ 
+    height: 1200px;
+}
+
+.Carrusel{
+    background-color:  rgb(34, 198, 43);
+    height: 50px;
+}
+
+
+.caja1{
+    height: 400px;
+   
+    background-color: brown;
+  
+}
+.caja2{
+    height: 400px;
+   
+    background-color: rgb(171, 90, 90);
+  
+}
+.caja3{
+    height: 400px;
+   
+    background-color: rgb(192, 133, 16);
+  
+}
+.caja4{
+    height: 400px;
+   
+    background-color: rgb(118, 174, 7);
+  
+}
+.caja5{
+    height: 400px;
+ 
+    background-color: rgb(73, 196, 210);
+  
+}
+
+.caja6{
+    height: 400px;
+  
+    background-color: brown;
+  
+}
+.caja7{
+    height: 400px;
+   
+    background-color: rgb(171, 90, 90);
+  
+}
+.caja8{
+    height: 400px;
+   
+    background-color: rgb(192, 133, 16);
+  
+}
+.caja9{
+    height: 400px;
+  
+    background-color: rgb(118, 174, 7);
+  
+}
+.caja10{
+    height: 400px;
+   
+    background-color: rgb(73, 196, 210);
+  
+}
